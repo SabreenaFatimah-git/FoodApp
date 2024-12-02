@@ -1,5 +1,5 @@
 ## Food App
-A dynamic and interactive food ordering web app built using React.js, styled with Tailwind CSS, and bundled with Parcel. The app allows users to browse restaurants, 
+A dynamic and interactive food ordering web app built using React.js & styled with Tailwind CSS. The app allows users to browse restaurants, 
 search for specific eateries, view menus, and filter top-rated options seamlessly.
 
 ## Features
